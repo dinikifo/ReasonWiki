@@ -43,11 +43,6 @@ software. Notes stay on the user's computer in SQLite databases.
 - **Work alongside PVS-01:** browse pinned snapshots and compare local status
   edits with external PVS state. The wiki never writes directly to PVS.
 
-[User manual](docs/USER_MANUAL.md) ·
-[Project origins](ORIGINS.md) ·
-[Publication notes](PUBLISHING.md) ·
-[CC0 license](LICENSE)
-
 ![Personal Wiki project dashboard](docs/images/02_dashboard.png)
 
 ## Related personal projects
